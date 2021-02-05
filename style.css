@@ -4,3 +4,8 @@
     background-size: cover;
     height: 600px;
 }
+
+.card-overflow{
+    margin-bottom: -150px;
+    
+}
